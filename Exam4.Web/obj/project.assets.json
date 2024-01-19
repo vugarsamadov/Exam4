@@ -11742,11 +11742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Web\\Exam4.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Web\\Exam4.Web.csproj",
       "projectName": "Exam4.Web",
-      "projectPath": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Web\\Exam4.Web.csproj",
+      "projectPath": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Web\\Exam4.Web.csproj",
       "packagesPath": "C:\\Users\\Birinci Novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Web\\obj\\",
+      "outputPath": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Birinci Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11763,8 +11763,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Business\\Exam4.Business.csproj": {
-              "projectPath": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Business\\Exam4.Business.csproj"
+            "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Business\\Exam4.Business.csproj": {
+              "projectPath": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Business\\Exam4.Business.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Business\\Exam4.Business.csproj": {}
+    "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Business\\Exam4.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Business\\Exam4.Business.csproj": {
+    "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Business\\Exam4.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Business\\Exam4.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Business\\Exam4.Business.csproj",
         "projectName": "Exam4.Business",
-        "projectPath": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Business\\Exam4.Business.csproj",
+        "projectPath": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Business\\Exam4.Business.csproj",
         "packagesPath": "C:\\Users\\Birinci Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Business\\obj\\",
+        "outputPath": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Birinci Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Infrastructure\\Exam4.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Infrastructure\\Exam4.Infrastructure.csproj"
+              "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Infrastructure\\Exam4.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Infrastructure\\Exam4.Infrastructure.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj": {
+    "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj",
         "projectName": "Exam4.Core",
-        "projectPath": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj",
+        "projectPath": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj",
         "packagesPath": "C:\\Users\\Birinci Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Core\\obj\\",
+        "outputPath": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Birinci Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,14 +131,14 @@
         }
       }
     },
-    "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Infrastructure\\Exam4.Infrastructure.csproj": {
+    "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Infrastructure\\Exam4.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Infrastructure\\Exam4.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Infrastructure\\Exam4.Infrastructure.csproj",
         "projectName": "Exam4.Infrastructure",
-        "projectPath": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Infrastructure\\Exam4.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Infrastructure\\Exam4.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Birinci Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Birinci Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -155,8 +155,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj": {
-                "projectPath": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj"
+              "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj": {
+                "projectPath": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj"
               }
             }
           }

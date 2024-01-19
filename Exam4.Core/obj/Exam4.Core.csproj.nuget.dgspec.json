@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj": {}
+    "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj": {
+    "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj",
         "projectName": "Exam4.Core",
-        "projectPath": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj",
+        "projectPath": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Core\\Exam4.Core.csproj",
         "packagesPath": "C:\\Users\\Birinci Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Core\\obj\\",
+        "outputPath": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Birinci Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",

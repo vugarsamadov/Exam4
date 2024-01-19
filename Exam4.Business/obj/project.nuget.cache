@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UFH71fGyglKPoWMC0aBCE3rEJN/3iYm3mlu25orhK4yFN3wJVVdkJNG/Ko0IKWXUGZmtx3CLGv6ePdJlao+d1g==",
+  "dgSpecHash": "hcrVvrYOl7cIjhXbvLOkJByJzHVcBh0/fjqjtkcL9hzU13ABWCWM4hN/5jaqdqSpKBeQRR6m6kdADEHPw0vkSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Business\\Exam4.Business.csproj",
+  "projectFilePath": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Business\\Exam4.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Birinci Novbe\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Birinci Novbe\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

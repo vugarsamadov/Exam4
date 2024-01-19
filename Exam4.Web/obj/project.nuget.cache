@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A+j3olXkCEBu7dRLTNuuJ6AMMDyWqPeUWj9rwBoNJBiblm8lA/CgdSA4TEGo6jhQZ3B0ct2FvryEhpVk92WriA==",
+  "dgSpecHash": "CJA9N8BnP2Z5mJBxNRVS99kKMiK/dST/eftorUWJWeGO+ISKIz3Xlmz5ClS/6SFaa3pK3zzfDJxXKq+YloO3xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Birinci Novbe\\Desktop\\Exam4\\Exam4.Web\\Exam4.Web.csproj",
+  "projectFilePath": "C:\\Users\\Birinci Novbe\\desktop\\Exam4\\Exam4.Web\\Exam4.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Birinci Novbe\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Birinci Novbe\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
