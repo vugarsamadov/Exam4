@@ -1,0 +1,11 @@
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Core\bin\Debug\net7.0\Exam4.Core.deps.json
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Core\bin\Debug\net7.0\Exam4.Core.dll
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Core\bin\Debug\net7.0\Exam4.Core.pdb
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Core\obj\Debug\net7.0\Exam4.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Core\obj\Debug\net7.0\Exam4.Core.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Core\obj\Debug\net7.0\Exam4.Core.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Core\obj\Debug\net7.0\Exam4.Core.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Core\obj\Debug\net7.0\Exam4.Core.dll
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Core\obj\Debug\net7.0\refint\Exam4.Core.dll
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Core\obj\Debug\net7.0\Exam4.Core.pdb
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Core\obj\Debug\net7.0\ref\Exam4.Core.dll

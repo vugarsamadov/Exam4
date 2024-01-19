@@ -1,0 +1,33 @@
+﻿@model LoginVM
+@{
+    Layout = "_AuthLayout";
+}
+
+<div class="login-container">
+
+    <form method="post" asp-action="Login" class="login-form">
+
+        <h1>Welcome Back</h1>
+        <p>Please login to your account</p>
+
+        @Html.ValidationSummary();
+
+        <div class="input-group">
+            <input asp-for="Email" type="text" placeholder="Email" required>
+            <span style="color:red" asp-validation-for="Email"></span>
+        </div>
+
+        <div class="input-group">
+            <input asp-for="Password" type="password" placeholder="Password" required>
+            <span style="color:red" asp-validation-for="Password"></span>
+        </div>
+
+        <button type="submit">Login</button>
+
+        <div class="bottom-text">
+            <p>Don't have an account? <a asp-action="Register">Register</a></p>
+        </div>
+
+    </form>
+
+</div>

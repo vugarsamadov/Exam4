@@ -1,0 +1,17 @@
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\obj\Debug\net7.0\Exam4.Business.csproj.AssemblyReference.cache
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\obj\Debug\net7.0\Exam4.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\obj\Debug\net7.0\Exam4.Business.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\obj\Debug\net7.0\Exam4.Business.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\obj\Debug\net7.0\Exam4.Business.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\bin\Debug\net7.0\Exam4.Business.deps.json
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\bin\Debug\net7.0\Exam4.Business.dll
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\bin\Debug\net7.0\Exam4.Business.pdb
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\bin\Debug\net7.0\Exam4.Core.dll
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\bin\Debug\net7.0\Exam4.Infrastructure.dll
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\bin\Debug\net7.0\Exam4.Infrastructure.pdb
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\bin\Debug\net7.0\Exam4.Core.pdb
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\obj\Debug\net7.0\Exam4.Business.csproj.CopyComplete
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\obj\Debug\net7.0\Exam4.Business.dll
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\obj\Debug\net7.0\refint\Exam4.Business.dll
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\obj\Debug\net7.0\Exam4.Business.pdb
+C:\Users\Birinci Novbe\Desktop\Exam4\Exam4.Business\obj\Debug\net7.0\ref\Exam4.Business.dll
